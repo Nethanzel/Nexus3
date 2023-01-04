@@ -1,0 +1,27 @@
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\bin\Debug\Downloader.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\bin\Debug\Downloader.pdb
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\bin\Debug\Downloader.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\obj\x86\Debug\Downloader.Form1.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\obj\x86\Debug\Downloader.Resources.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\obj\x86\Debug\Downloader.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\obj\x86\Debug\Downloader.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\obj\x86\Debug\Downloader.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\Downloader\obj\x86\Debug\Downloader.pdb
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\obj\x86\Debug\Downloader.exe
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\obj\x86\Debug\Downloader.xml
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\obj\x86\Debug\Downloader.pdb
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\bin\Debug\Downloader.xml
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\obj\x86\Debug\Downloader.Form1.resources
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\obj\x86\Debug\Downloader.Resources.resources
+C:\Users\Nethanzel\Desktop\Downloader\Downloader\obj\x86\Debug\Downloader.vbproj.GenerateResource.Cache
+N:\Nexus\App\SystemApp\Downloader\Downloader\obj\x86\Debug\Downloader.exe
+N:\Nexus\App\SystemApp\Downloader\Downloader\obj\x86\Debug\Downloader.xml
+N:\Nexus\App\SystemApp\Downloader\Downloader\obj\x86\Debug\Downloader.pdb
+N:\Nexus\App\SystemApp\Downloader\Downloader\bin\Debug\Downloader.exe
+N:\Nexus\App\SystemApp\Downloader\Downloader\bin\Debug\Downloader.pdb
+N:\Nexus\App\SystemApp\Downloader\Downloader\bin\Debug\Downloader.xml
+N:\Nexus\App\SystemApp\Downloader\Downloader\obj\x86\Debug\Downloader.Form1.resources
+N:\Nexus\App\SystemApp\Downloader\Downloader\obj\x86\Debug\Downloader.Resources.resources
+N:\Nexus\App\SystemApp\Downloader\Downloader\obj\x86\Debug\Downloader.vbproj.GenerateResource.Cache

@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9B082B2A-7D37-43AD-AABC-42F805D30390}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>NxDesktop.My.MyApplication</StartupObject>
+    <RootNamespace>NxDesktop</RootNamespace>
+    <AssemblyName>NxDesktop</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NxDesktop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NxDesktop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NxDesktop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>NxDesktop.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ArcoIrs.Designer.vb">
+      <DependentUpon>ArcoIrs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ArcoIrs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CgClock.Designer.vb">
+      <DependentUpon>CgClock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CgClock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configs.Designer.vb">
+      <DependentUpon>Configs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gadgets.Designer.vb">
+      <DependentUpon>Gadgets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gadgets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IconsForm.Designer.vb">
+      <DependentUpon>IconsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IconsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SlideMenu.Designer.vb">
+      <DependentUpon>SlideMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SlideMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriptoLib.vb" />
+    <Compile Include="Desktop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desktop.Designer.vb">
+      <DependentUpon>Desktop.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartMenu.Designer.vb">
+      <DependentUpon>StartMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StartMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Index.Designer.vb">
+      <DependentUpon>Index.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telon.Designer.vb">
+      <DependentUpon>Telon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Telon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllOfMe.vb" />
+    <Compile Include="MainWindow.Designer.vb">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Runner.Designer.vb">
+      <DependentUpon>Runner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Runner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserChangerParam.Designer.vb">
+      <DependentUpon>UserChangerParam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserChangerParam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ArcoIrs.resx">
+      <DependentUpon>ArcoIrs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CgClock.resx">
+      <DependentUpon>CgClock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configs.resx">
+      <DependentUpon>Configs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gadgets.resx">
+      <DependentUpon>Gadgets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IconsForm.resx">
+      <DependentUpon>IconsForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SlideMenu.resx">
+      <DependentUpon>SlideMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desktop.resx">
+      <DependentUpon>Desktop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartMenu.resx">
+      <DependentUpon>StartMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telon.resx">
+      <DependentUpon>Telon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Runner.resx">
+      <DependentUpon>Runner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserChangerParam.resx">
+      <DependentUpon>UserChangerParam.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CDUlt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MsgEstulyGood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NexusRightt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmartWorldTech-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NexusRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartBack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartGo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartGo-.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartGo_.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NexusSB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NexusSB2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nxPlayState.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nxPlayStopped.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WC.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

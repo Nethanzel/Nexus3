@@ -1,0 +1,37 @@
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\bin\Debug\MathSheet.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\bin\Debug\MathSheet.pdb
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\bin\Debug\MathSheet.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\obj\x86\Debug\MathSheet.Form1.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\obj\x86\Debug\MathSheet.Resources.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\obj\x86\Debug\MathSheet.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\obj\x86\Debug\MathSheet.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\obj\x86\Debug\MathSheet.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\MathSheet\obj\x86\Debug\MathSheet.pdb
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\obj\x86\Debug\MathSheet.exe
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\obj\x86\Debug\MathSheet.xml
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\obj\x86\Debug\MathSheet.pdb
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\bin\Debug\MathSheet.exe
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\bin\Debug\MathSheet.pdb
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\bin\Debug\MathSheet.xml
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\obj\x86\Debug\MathSheet.Form1.resources
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\obj\x86\Debug\MathSheet.Resources.resources
+C:\Users\Nethanzel\Desktop\MathSheet\MathSheet\obj\x86\Debug\MathSheet.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\obj\x86\Debug\MathSheet.exe
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\obj\x86\Debug\MathSheet.xml
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\obj\x86\Debug\MathSheet.pdb
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\bin\Debug\MathSheet.exe
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\bin\Debug\MathSheet.pdb
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\bin\Debug\MathSheet.xml
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\obj\x86\Debug\MathSheet.Form1.resources
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\obj\x86\Debug\MathSheet.Resources.resources
+C:\Users\Nethanzel\Desktop\ProjectionPath\MathSheet\MathSheet\obj\x86\Debug\MathSheet.vbproj.GenerateResource.Cache
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.exe
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.xml
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.pdb
+N:\Dev App\MathSheet\MathSheet\bin\Debug\MathSheet.exe
+N:\Dev App\MathSheet\MathSheet\bin\Debug\MathSheet.pdb
+N:\Dev App\MathSheet\MathSheet\bin\Debug\MathSheet.xml
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.vbprojResolveAssemblyReference.cache
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.Form1.resources
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.Resources.resources
+N:\Dev App\MathSheet\MathSheet\obj\x86\Debug\MathSheet.vbproj.GenerateResource.Cache

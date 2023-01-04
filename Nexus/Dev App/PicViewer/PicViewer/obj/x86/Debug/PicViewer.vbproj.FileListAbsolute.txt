@@ -1,0 +1,21 @@
+N:\Aplicaciones\PicViewer\PicViewer\bin\Debug\PicViewer.exe
+N:\Aplicaciones\PicViewer\PicViewer\bin\Debug\PicViewer.pdb
+N:\Aplicaciones\PicViewer\PicViewer\bin\Debug\PicViewer.xml
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.Form1.resources
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.Resources.resources
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.exe
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.xml
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.pdb
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.vbproj.GenerateResource.Cache
+N:\Aplicaciones\PicViewer\PicViewer\bin\Debug\ClaseImagenes.dll
+N:\Aplicaciones\PicViewer\PicViewer\obj\x86\Debug\PicViewer.vbprojResolveAssemblyReference.cache
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.exe
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.xml
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.pdb
+N:\Dev App\PicViewer\PicViewer\bin\Debug\PicViewer.exe
+N:\Dev App\PicViewer\PicViewer\bin\Debug\PicViewer.pdb
+N:\Dev App\PicViewer\PicViewer\bin\Debug\PicViewer.xml
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.vbprojResolveAssemblyReference.cache
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.Form1.resources
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.Resources.resources
+N:\Dev App\PicViewer\PicViewer\obj\x86\Debug\PicViewer.vbproj.GenerateResource.Cache

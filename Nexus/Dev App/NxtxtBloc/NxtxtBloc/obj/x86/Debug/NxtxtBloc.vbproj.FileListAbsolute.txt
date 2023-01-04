@@ -1,0 +1,29 @@
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.exe
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.pdb
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.xml
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.Form1.resources
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.Resources.resources
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.exe
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.xml
+C:\Users\pc\Desktop\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.pdb
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.exe
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.pdb
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.xml
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.Form1.resources
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.Resources.resources
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.vbproj.GenerateResource.Cache
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.exe
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.xml
+N:\Aplicaciones\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.pdb
+N:\Dev App\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.exe
+N:\Dev App\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.xml
+N:\Dev App\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.pdb
+N:\Dev App\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.exe
+N:\Dev App\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.pdb
+N:\Dev App\NxtxtBloc\NxtxtBloc\bin\Debug\NxtxtBloc.xml
+N:\Dev App\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.Form1.resources
+N:\Dev App\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.Resources.resources
+N:\Dev App\NxtxtBloc\NxtxtBloc\obj\x86\Debug\NxtxtBloc.vbproj.GenerateResource.Cache

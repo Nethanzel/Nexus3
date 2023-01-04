@@ -1,0 +1,44 @@
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\bin\Debug\NotifierSystem.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\bin\Debug\NotifierSystem.pdb
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\bin\Debug\NotifierSystem.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\obj\x86\Debug\NotifierSystem.Form1.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\obj\x86\Debug\NotifierSystem.Resources.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\obj\x86\Debug\NotifierSystem.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\obj\x86\Debug\NotifierSystem.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\obj\x86\Debug\NotifierSystem.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\NotifierSystem\obj\x86\Debug\NotifierSystem.pdb
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.exe
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.xml
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.pdb
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.exe
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.pdb
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.xml
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.Form1.resources
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.Resources.resources
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\bin\Debug\NotifyPanel.dll
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\bin\Debug\NotifyPanel.pdb
+C:\Users\Nethanzel\Desktop\NotifierSystem\NotifierSystem\bin\Debug\NotifyPanel.xml
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.exe
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.xml
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.pdb
+N:\System\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.exe
+N:\System\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.pdb
+N:\System\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.xml
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.Form1.resources
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.Resources.resources
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.vbproj.GenerateResource.Cache
+N:\System\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.SlideMenu.resources
+N:\System\NotifierSystem\NotifierSystem\bin\Debug\EspNotifyPanel.dll
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.exe
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.xml
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.pdb
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.exe
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.pdb
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\bin\Debug\NotifierSystem.xml
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.vbprojResolveAssemblyReference.cache
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.Form1.resources
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.Resources.resources
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.SlideMenu.resources
+N:\Nexus\App\SystemApp\NotifierSystem\NotifierSystem\obj\x86\Debug\NotifierSystem.vbproj.GenerateResource.Cache

@@ -1,0 +1,74 @@
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.exe
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.pdb
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.xml
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.dll
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.pdb
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.xml
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbprojResolveAssemblyReference.cache
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Form1.resources
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Resources.resources
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.exe
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.xml
+C:\Users\Nethanzel\Desktop\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.pdb
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.exe
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.pdb
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.xml
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.dll
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.dll
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.pdb
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.xml
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.pdb
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.xml
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbprojResolveAssemblyReference.cache
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Form1.resources
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Resources.resources
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbproj.GenerateResource.Cache
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.exe
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.xml
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.pdb
+N:\Aplicaciones\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.ContextWindow.resources
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.exe
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.xml
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.pdb
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.exe
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.pdb
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.xml
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.pdb
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.xml
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.pdb
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.xml
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbprojResolveAssemblyReference.cache
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.ContextWindow.resources
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Form1.resources
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Resources.resources
+G:\All\Nexus\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbproj.GenerateResource.Cache
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.exe
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.xml
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.pdb
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.exe
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.pdb
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.xml
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.pdb
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowser.xml
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.pdb
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.xml
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbprojResolveAssemblyReference.cache
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.ContextWindow.resources
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Form1.resources
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Resources.resources
+N:\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbproj.GenerateResource.Cache
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.exe
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.xml
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.pdb
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbprojResolveAssemblyReference.cache
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.ContextWindow.resources
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Form1.resources
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer.Resources.resources
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\obj\x86\Debug\WebExplorer Evo.vbproj.GenerateResource.Cache
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.exe
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.pdb
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\WebExplorer Evo.xml
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.dll
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.pdb
+C:\Users\Abad\Desktop\Nexus3\Nexus\Dev App\WebExplorer Evo\WebExplorer Evo\bin\Debug\NexusBrowserNew.xml

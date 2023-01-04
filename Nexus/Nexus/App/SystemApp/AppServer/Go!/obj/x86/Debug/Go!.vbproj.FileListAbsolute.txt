@@ -1,0 +1,60 @@
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\bin\Debug\Go!.exe
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\bin\Debug\Go!.pdb
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\bin\Debug\Go!.xml
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\obj\x86\Debug\Go_.Form1.resources
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\obj\x86\Debug\Go_.Resources.resources
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\obj\x86\Debug\Go!.vbproj.GenerateResource.Cache
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Natanael\AppData\Local\Temporary Projects\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Natanael\Desktop\Go!\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Natanael\Desktop\Go!\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Natanael\Desktop\Go!\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Natanael\Desktop\Go! -\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Natanael\Desktop\Go! -\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Natanael\Desktop\Go! -\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Natanael\Desktop\Go! -\Go!\bin\Debug\Go!.exe
+C:\Users\Natanael\Desktop\Go! -\Go!\bin\Debug\Go!.pdb
+C:\Users\Natanael\Desktop\Go! -\Go!\bin\Debug\Go!.xml
+C:\Users\Natanael\Desktop\Go! -\Go!\obj\x86\Debug\Go_.Form1.resources
+C:\Users\Natanael\Desktop\Go! -\Go!\obj\x86\Debug\Go_.Resources.resources
+C:\Users\Natanael\Desktop\Go! -\Go!\obj\x86\Debug\Go!.vbproj.GenerateResource.Cache
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\bin\Debug\Go!.exe
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\bin\Debug\Go!.pdb
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\bin\Debug\Go!.xml
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go_.Form1.resources
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go_.Resources.resources
+C:\Users\Natanael\Desktop\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\bin\Debug\Go!.exe
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\bin\Debug\Go!.pdb
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\bin\Debug\Go!.xml
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go_.Form1.resources
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go_.Resources.resources
+C:\Users\Nethanzel\Desktop\ProjectionPath\IntraMail Project\New\IntraChat\Go! -\Go!\obj\x86\Debug\Go!.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\Desktop\Go! -\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Nethanzel\Desktop\Go! -\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Nethanzel\Desktop\Go! -\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Nethanzel\Desktop\Go! -\Go!\bin\Debug\Go!.exe
+C:\Users\Nethanzel\Desktop\Go! -\Go!\bin\Debug\Go!.pdb
+C:\Users\Nethanzel\Desktop\Go! -\Go!\bin\Debug\Go!.xml
+C:\Users\Nethanzel\Desktop\Go! -\Go!\obj\x86\Debug\Go_.Form1.resources
+C:\Users\Nethanzel\Desktop\Go! -\Go!\obj\x86\Debug\Go_.Resources.resources
+C:\Users\Nethanzel\Desktop\Go! -\Go!\obj\x86\Debug\Go!.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\obj\x86\Debug\Go!.exe
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\obj\x86\Debug\Go!.xml
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\obj\x86\Debug\Go!.pdb
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\bin\Debug\Go!.exe
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\bin\Debug\Go!.pdb
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\bin\Debug\Go!.xml
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\obj\x86\Debug\Go_.Form1.resources
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\obj\x86\Debug\Go_.Resources.resources
+C:\Users\Nethanzel\Desktop\ProjectionPath\Go! -\Go!\obj\x86\Debug\Go!.vbproj.GenerateResource.Cache
+N:\System\AppServer\Go!\obj\x86\Debug\Go!.exe
+N:\System\AppServer\Go!\obj\x86\Debug\Go!.xml
+N:\System\AppServer\Go!\obj\x86\Debug\Go!.pdb

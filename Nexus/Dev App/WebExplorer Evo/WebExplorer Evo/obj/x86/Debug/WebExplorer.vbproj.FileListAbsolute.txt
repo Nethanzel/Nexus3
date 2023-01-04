@@ -1,0 +1,9 @@
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\bin\Debug\WebExplorer.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\bin\Debug\WebExplorer.pdb
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\bin\Debug\WebExplorer.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\obj\x86\Debug\WebExplorer.Form1.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\obj\x86\Debug\WebExplorer.Resources.resources
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\obj\x86\Debug\WebExplorer.vbproj.GenerateResource.Cache
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\obj\x86\Debug\WebExplorer.exe
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\obj\x86\Debug\WebExplorer.xml
+C:\Users\Nethanzel\AppData\Local\Temporary Projects\WebExplorer\obj\x86\Debug\WebExplorer.pdb
